@@ -1,2 +1,2 @@
-# PROJECT 1(GITHUB)
+# PROJECT 1
 
